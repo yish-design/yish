@@ -3,7 +3,7 @@
 /**
  * Omweb Website Management System
  * 
- * @since			version 1.0.6
+ * @since			version MAN_VERSION
  * @author			mantob <kefu@mantob.com>
  * @license     	http://www.mantob.com/license
  * @copyright		Copyright (c) 2013 - 9999, mantob.Com, Inc.
@@ -23,10 +23,10 @@ return array(
 	'SITE_TEMPLATE'                 => 'yish', //网站的模板目录
 	'SITE_TIMEZONE'                 => 8, //所在的时区常量
 	'SITE_TIME_FORMAT'              => 'Y-m-d H:i', //时间显示格式，与date函数一致，默认Y-m-d H:i:s
-	'SITE_TITLE'                    => '盛航企业', //网站首页SEO标题
+	'SITE_TITLE'                    => 'Yish-Design', //网站首页SEO标题
 	'SITE_SEOJOIN'                  => '_', //网站SEO间隔符号
-	'SITE_KEYWORDS'                 => '盛航企业', //网站SEO关键字
-	'SITE_DESCRIPTION'              => '盛航企业', //网站SEO描述信息
+	'SITE_KEYWORDS'                 => 'Yish-Design', //网站SEO关键字
+	'SITE_DESCRIPTION'              => 'Yish-Design', //网站SEO描述信息
 	'SITE_NAVIGATOR'                => '主导航,首页幻灯,底部导航,,,,,,,', //网站导航信息，多个导航逗号分开
 	'SITE_HOME_INDEX'               => 1099, //站点首页静态化有效期
 	'SITE_MODULE_INDEX'             => 999, //站点模块静态化有效期

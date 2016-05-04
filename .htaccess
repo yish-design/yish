@@ -3,3 +3,9 @@ RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule !.(js|ico|gif|jpe?g|bmp|png|css)$ /index.php [NC,L]
+
+<IFModule mod_php5.c>
+php_value upload_max_filesize 2000M
+php_value post_max_size 2500M
+php_value max_file_uploads 50
+</IFModule>

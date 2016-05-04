@@ -7,7 +7,7 @@
     <section class="case-wrap" id="case-wrap" >
         <div class="case-desc-wrap w9 m-auto">
             <h3 class="title"><?php echo $title; ?></h3>
-            <div class="category"><?php echo dr_catpos($catid, '/',false); ?> </div>
+            <div class="category" style="font-style:italic;"><?php echo dr_catpos($catid, '/',false); ?> </div>
             <div class="contents">
                 <?php echo $content; ?>
             </div>
