@@ -1,0 +1,43 @@
+{template "header.html"}
+<div class="container">
+        <!-- section start-page -->
+    {template "banner.html"}
+    {template "nav.html"}
+   <div class="clear"></div>
+   <!-- section about us -->
+        {template "indexAbout.html"}
+   <div class="clear"></div>
+   <!-- portoflio-->
+        {template "indexPro.html"}
+   <div class="clear"></div>
+   <!-- partners-->
+        {template "indexPartnets.html"}
+   <div class="clear"></div>
+   <!-- Contact-->
+        {template "indexContact.html"}
+   <div class="clear"></div>
+        {template "footer.html"}
+  </div> 
+  <script src="{HOME_THEME_PATH}build/js/app.js"></script>
+  <script>
+      $(function () {
+          var page = 1;
+            $("#loadMoreData").on("click",function () {
+                $(".loaddata").show();
+                page++;
+                getIndexData(page);
+            });
+      });
+
+      function getIndexData(page) {
+          $.get('/?s=case&c=api&m=template&name=index_data.html&page='+page, function (html) {
+              if(html){
+                  $('#case-index-data').append(html);
+              }
+              $(".loaddata").hide();
+          });
+      }
+
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af70107b-bcf0-4c91-bde7-d95aaebcd73c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/O(∩_∩)O哈哈~.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/block-1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/module-1-caigouzhinan.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/module-1-dingzhi.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/module-1-news.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/module-1-nok.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/module-1-simrit.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/navigator-1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/page-1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/data/page-field-1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/3bd77eec54c67dd0837706debe36dbd0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/77530147ebbdbc2c38664cd7ccd2471e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/a7895363825cf4180a8afd66aa87adbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/23f07e859da5f1f21b144bb07a79a18b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/27aad056c3842b7263941f6c6fa56d9e.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/29c431aaa0ccc44b81ead5dbe45629a5.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/3a2b1388705c5c08fdc42fca3b329c93.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/470d87a1d62aac4bfad19f637e5d6001.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/47cf4b7b85ca71a90fc67ae0370bf844.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/51c0d3f7ba1353e8f44b0f6d9674dd4b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/524ec6446a18fe39bcfd675991975f8e.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/674be969645897f7667ce8694dbdbdb0.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/7059a7754bce5137b42c91a18c7110ed.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/75ef2ae9e36ecd84a863bc80ff43ee59.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/8af53962061b24daf9ee8d6978a26467.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/8f1bb7274146fc45faf3d60a2bfd260f.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/9b9f7998614574281136add1a3c6bcd7.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/9cb4e4ca757ba7c1cb982eda31083a02.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/9f8f6a81326c557a6e191c11693b3344.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/a2327613687a454c2820ec02a4f5aacf.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/a29d63de832bb3da901b937366f653e9.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/bd7277a0ed93acc31bf0bf65d268aaed.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/eb425eaba8a0fb43e2dac861e1044de4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/ed84d1f493f689087403d21984108e85.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f1aa38b951e679b3079b9abbedc43620.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f53272f22cb94792955bfc0e6575ada3.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f554edec5e4c677f360885b73eccd0c5.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f6c1ab1b8e9f502a96d0a07ee323cdd2.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f92e35707c95c6184f78cfab338d7a79.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/luoduo/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/luoduo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/caigouzhinan/templates/luoduo/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/luoduo/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/luoduo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dingzhi/templates/luoduo/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/1x1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/backgrounds/grey-noise-min.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/24-min.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/desktop_slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/desktop_slider_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/index-min.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/video/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/video/back.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/video/back.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/wall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/assets/images/demo/wall2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/coloredbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/gridtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/gridtile_3x3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/gridtile_3x3_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/gridtile_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/assets/timer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/sprite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/font/revicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/font/revicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/font/revicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/about-banner-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/about-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/about-main-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/about-main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/banner-cont-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/bg-line-simrit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/bg-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/caigou-banner-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/caigou-count-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/caigou-count-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/content-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/dingzhi-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/fix-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/fix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/from-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-about-en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-about-pic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-about-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-contact-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-main2-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-pro1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-pro2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/index-pro3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/jiantou-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/jiantou-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/loading.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/nok-show-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/paomiantu-si.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/paomiantu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/product-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/products-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/service-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/setting-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/shouhou-bg-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/shouhou-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/simrit-show-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/time-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/time.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/zhibao-banner-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/zhibao-pic-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/images/zhibao-pic-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/D.themepunch._tools.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/D.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/revolution_slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/act.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/banner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/form_1_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/in_case.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/in_news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/in_server.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/in_team.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/in_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/list-news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/list-order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/list1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/list2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/mianbao.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/msg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/news-show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/order_show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/pages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/show1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/hunTpl/top_nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/banner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/form_1_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/msg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/navimg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/so.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/soform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/solist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/luoduo/zhibao.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/luoduo/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/luoduo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/luoduo/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/luoduo/side.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/zan/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/zan/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/templates/zan/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/luoduo/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/luoduo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/luoduo/name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/luoduo/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nok/templates/luoduo/sider.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/sql文件说明.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/config/uninstall.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Mconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Address.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/core/D_Order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/language/zh-cn/my_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Field/Brand.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Field/Discount.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Field/Format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/libraries/Field/Freight.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/models/Format_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/models/Order_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/21-2new.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bg-02.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bg01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bg10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bgfour.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bgone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bgthree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bgtwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/blocksit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/buy_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cartTipBottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cat-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/cloud-zoom.1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/css.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/dd_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/fbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/goon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/gwc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/gwc01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/gwc02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/gwc03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/hot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/ico_close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/ico_open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/idialog_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/ie6png.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/ad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/ad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/i1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/i2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/i3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item/t1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/item_sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/jxgw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/lastbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/lbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/left-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/lmtit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/login.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/navfl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/photo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/rbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/right-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/sc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/shopbanner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/shoppictitle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/telbf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/tmbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/warebuy1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/warebuy2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/default/warebuy3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/statics/jquery.ld.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/content_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/content_edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/format_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/format_adddata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/format_data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/format_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/mconfig_config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/mconfig_expresses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/mconfig_paytype.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/order_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/order_price.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/order_print.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/order_send.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/admin/order_show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/buy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/cat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/list_top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/msg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/default/top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_make.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_price.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_review.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_send.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/member/default/order_show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/buy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/cat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/list_data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/list_top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/templates/mujintpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/case/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/hunTpl/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/luoduo/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/luoduo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simrit/templates/luoduo/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/space/templates/default/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/api/uc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/data.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/main.table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/config/sql-__txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/admin/Tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/member/Back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/member/Home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/controllers/member/Verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/core/M_Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/language/zh-cn/category_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/language/zh-cn/module_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/libraries/Dfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/libraries/Dvalidate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/models/Content_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/templates/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/templates/hunTpl/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/templates/hunTpl/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/templates/hunTpl/show.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/form-1.cache.php" afterPath="$PROJECT_DIR$/cache/data/form-1.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/member.cache.php" afterPath="$PROJECT_DIR$/cache/data/member.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/module.cache.php" afterPath="$PROJECT_DIR$/cache/data/module.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/role.cache.php" afterPath="$PROJECT_DIR$/cache/data/role.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/siteinfo.cache.php" afterPath="$PROJECT_DIR$/cache/data/siteinfo.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/table.cache.php" afterPath="$PROJECT_DIR$/cache/data/table.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/domain.php" afterPath="$PROJECT_DIR$/config/domain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/site/1.php" afterPath="$PROJECT_DIR$/config/site/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js" />
+    </list>
+    <ignored path="yish.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yish" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/footer.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/banner.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/indexAbout.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/nav.html" />
+        <option value="$PROJECT_DIR$/case/templates/yish/list.html" />
+        <option value="$PROJECT_DIR$/case/templates/yish/category.html" />
+        <option value="$PROJECT_DIR$/case/config/auth.php" />
+        <option value="$PROJECT_DIR$/case/config/module.php" />
+        <option value="$PROJECT_DIR$/case/templates/yish/show.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/index_data.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/indexPartnets.html" />
+        <option value="$PROJECT_DIR$/config/constants.php" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/indexPro.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/index.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/msg.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/indexContact.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/header.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="466" />
+    <option name="y" value="60" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="125" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="150" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="137" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="936" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/css" />
+      <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/js" />
+      <recent name="$PROJECT_DIR$/mantob/statics/zanjs" />
+      <recent name="$PROJECT_DIR$/mantob/templates/yish" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af70107b-bcf0-4c91-bde7-d95aaebcd73c" name="Default" comment="" />
+      <created>1462331226975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462331226975</updated>
+      <workItem from="1462331228382" duration="2657000" />
+      <workItem from="1462334453331" duration="6161000" />
+      <workItem from="1462345929335" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8848000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="466" y="60" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29752955" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29752955" sideWeight="0.49714285" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/form_1_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="85" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/header.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexPartnets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexPro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexAbout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/O(∩_∩)O哈哈~.html" />
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantouda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/index.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/header.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexAbout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/hunTpl/list.html" />
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/rewrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/api/uc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/data.table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/main.table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/config/module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/templates/luoduo/show.html" />
+    <entry file="file://$PROJECT_DIR$/news/templates/luoduo/list.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexPartnets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/form.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/form_1_2.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/msg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="114" selection-start-line="8" selection-start-column="114" selection-end-line="8" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexPro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/msg.html" />
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
