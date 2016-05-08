@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c9b1553-8aaf-4b7b-a7f3-598d443ffec8" name="yish" url="http://139.196.46.93">
+        <fileTransfer host="139.196.46.93" port="22" rootFolder="/home/wwwroot/yish-design.com" accessType="SFTP" password="dfcfdfc4dfcfdfd8dfcddfd3dfebdff9dfe2df9bdf9f" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
