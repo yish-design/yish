@@ -15,14 +15,14 @@
 
 return array(
 
-	'SYS_LOG'                       => 0, //后台操作日志开关
+	'SYS_LOG'                       => 1, //后台操作日志开关
 	'SYS_KEY'                       => 'FC183EE305133DD', //安全密钥
 	'SYS_DEBUG'                     => 0, //调试器开关
 	'SYS_HELP_URL'                  => 'http://www.mantob.com/help/list-341.html', //系统帮助url前缀部分
 	'SYS_EMAIL'                     => 'root@zanjs.com', //系统收件邮箱，用于接收系统信息
 	'SYS_MEMCACHE'                  => 0, //Memcache缓存开关
 	'SYS_ATTACHMENT_DIR'            => '', //系统附件目录名称
-	'SYS_CRON_QUEUE'                => 1, //任务队列方式
+	'SYS_CRON_QUEUE'                => 0, //任务队列方式
 	'SYS_CRON_NUMS'                 => 20, //每次执行任务数量
 	'SYS_CRON_TIME'                 => 300, //每次执行任务间隔
 	'SITE_EXPERIENCE'               => '经验值', //经验值名称

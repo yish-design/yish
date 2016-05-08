@@ -48,11 +48,11 @@ $(function() {
 </script>
 <div class="subnav">
 	<div class="content-menu ib-a blue line-x">
-		<?php echo $menu; ?>
+		<?php echo $menu; ?><span>|</span><a href="http://www.mantob.com/help/list-341.html" target="_blank"><em><?php echo lang('help'); ?></em></a>
 	</div>
 	<div class="bk10"></div>
 	<div class="explain-col">
-		<font color="gray"><?php echo lang('cat-06'); ?></font>
+		<font color="gray"><?php echo lang('html-371'); ?></font>
 	</div>
 	<div class="bk10"></div>
 	<div class="table-list">
@@ -64,10 +64,9 @@ $(function() {
 			<th width="20" align="right"><input name="dr_select" id="dr_select" type="checkbox" onClick="dr_selected()" />&nbsp;</th>
 			<th width="30" align="center"><?php echo lang('order'); ?></th>
 			<th width="40" align="left">Id</th>
-            <th align="left" width="200"><?php echo lang('cat-00'); ?></th>
-            <th align="center" width="40"><?php echo lang('cat-07'); ?></th>
-            <th hide="1" align="left" width="100"><?php echo lang('cat-08'); ?></th>
-            <th align="center" width="40"><?php echo lang('cat-09'); ?></th>
+            <th align="left"><?php echo lang('139'); ?></th>
+            <th align="left" width="150"><?php echo lang('140'); ?></th>
+            <th align="center" width="50"><?php echo lang('html-750'); ?></th>
 			<th align="left"><?php echo lang('option'); ?></th>
         </tr>
         </thead>
@@ -76,7 +75,7 @@ $(function() {
 		<tr>
 			<th align="right"><input name="dr_select" type="checkbox" onClick="dr_selected()" />&nbsp;</th>
 			<td colspan="7" align="left"> 
-            <?php if ($this->ci->is_auth('category/del')) { ?><input type="button" class="button" value="<?php echo lang('del'); ?>" name="button" onClick="$('#action').val('del');return dr_confirm_set_all('<?php echo lang('015'); ?>')" />&nbsp;<?php }  if ($this->ci->is_auth('model/edit')) { ?><input type="button" class="button" value="<?php echo lang('order'); ?>" name="button" onclick="$('#action').val('order');return dr_confirm_set_all('<?php echo lang('015'); ?>')" />&nbsp;<div class="onShow"><?php echo lang('html-182'); ?></div><?php } ?>
+            <?php if ($this->ci->is_auth('page/del')) { ?><input type="button" class="button" value="<?php echo lang('del'); ?>" name="button" onClick="$('#action').val('del');return dr_confirm_set_all('<?php echo lang('015'); ?>')" />&nbsp;<?php }  if ($this->ci->is_auth('page/edit')) { ?><input type="button" class="button" value="<?php echo lang('order'); ?>" name="button" onclick="$('#action').val('order');return dr_confirm_set_all('<?php echo lang('015'); ?>')" />&nbsp;<div class="onShow"><?php echo lang('html-054'); ?></div><?php } ?>
 			</td>
 		</tr>
 		</tbody>

@@ -17,7 +17,7 @@
    <div class="clear"></div>
         <?php if ($fn_include = $this->_include("footer.html")) include($fn_include); ?>
   </div> 
-  <script src="<?php echo HOME_THEME_PATH; ?>build/js/app.js"></script>
+  <script src="<?php echo HOME_THEME_PATH; ?>build/js/app.js?v20160505"></script>
   <script>
       $(function () {
           var page = 1;

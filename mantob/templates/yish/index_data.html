@@ -1,9 +1,10 @@
 {list action=module module=case order=displayorder,updatetime page=1 pagesize=9}
 <li>
     <a href="{$t.url}">
-        <img src="{dr_thumb($t.thumb2, 285,193)}" alt="" />
+        <img src="{dr_thumb($t.thumb, 285,193)}" alt="" />
         <div class="text">
-            <img src="{dr_thumb($t.thumb, 285,193)}" alt="" />
+            <p style="margin-top: 58px;">{$t.title}</p>
+            <p class="description" style="font-style: italic">{$ci->get_cache('module-1-case', 'category', $t.catid, 'pdirname')}  {$ci->get_cache('module-1-case', 'category', $t.catid, 'name')}</p>
         </div>
     </a>
 </li>

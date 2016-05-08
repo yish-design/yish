@@ -8,12 +8,14 @@
             </div>
             <h1>YISH DESIGN</h1>
             <hr />
-            <p>Design for the Real World.</p>
+            <p class="banner-desc">Design for the Real World.</p>
             <a href="#about-us">
                 <div class="read-more">
                     Read more
                 </div></a>
         </div>
+        <a href="#about-us">
         <div class="arrow-down"></div>
+        </a>
     </div>
 </section>

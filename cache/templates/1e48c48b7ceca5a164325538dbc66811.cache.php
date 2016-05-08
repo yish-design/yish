@@ -4,7 +4,7 @@
             YISH <i>design.</i>
         </div>
         <div class="icon">
-            <a href="javascript:void(0);"><img src="{HOME_THEME_PATH}build/img/icons/menu-media.png" /></a>
+            <a href="javascript:void(0);"><img src="<?php echo HOME_THEME_PATH; ?>build/img/icons/menu-media.png" /></a>
         </div>
     </div>
 </section>
