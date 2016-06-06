@@ -245,7 +245,7 @@ class Template {
             $content = $this->handle_view_file(file_get_contents($name));
             // 执行任务队列代码
             if (!$this->mobile && $this->cron && basename($name) == basename($this->_filename)) {
-                $content.= '<script type="text/javascript" src="' . SITE_URL . 'index.php?c=cron"></script>';
+                // $content.= '<script type="text/javascript" src="' . SITE_URL . 'index.php?c=cron"></script>';
             }
             if (@file_put_contents($cache_file, $content, LOCK_EX) === FALSE) {
                 show_error('请将模板缓存目录（/cache/templates/）权限设为777', 404, '无写入权限');

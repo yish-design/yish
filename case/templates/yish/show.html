@@ -1,9 +1,11 @@
-{template "header.html"}
-<div class="container">
-    <!-- section start-page -->
-    {template "banner.html"}
-    {template "navShow.html"}
-    <div class="clear"></div>
+{template "head.html"}
+<body>
+{template "preload.html"}
+{template "banner.html"}
+<div class="app" id="app">
+    <!--nav-->
+    {template "nav.html"}
+    <!--nav end-->
     <!--case show-->
     <section class="case-wrap" id="case-wrap" >
         <div class="case-desc-wrap m-auto">
@@ -11,6 +13,10 @@
             <div class="category" style="font-style:italic;">{dr_catpos($catid, '/',false)} </div>
             <div class="contents">
                 {$content}
+            </div>
+            <div class="article_next" style="padding-top: 30px;text-align: right;padding-right: 10px;">
+                {if $prev_page}<span class="fl" style="float: left">上一篇： <a href="{$prev_page.url}" title="{$prev_page.title}">{$prev_page.title}</a>{else}{/if}</span>
+                {if $next_page}<span class="">下一篇： <a href="{$next_page.url}" title="{$next_page.title}">{$next_page.title}</a>{else}{/if}</span>
             </div>
         </div>
     </section>
@@ -21,23 +27,22 @@
             </div>
             {loop $images $i $t}
                 <div class="img-d">
-                    <img class="lazy" src="{HOME_THEME_PATH}build/img/loading.svg" data-load="{dr_get_file($t.file)}" alt="{$t.title}-{$t.size}">
+                    <img class="lazy" src="{HOME_THEME_PATH}build/img/loading.svg" Lan="{dr_get_file($t.file)}" alt="{$t.title}-{$t.size}">
                 </div>
             {/loop}
 
         </div>
     </section>
     <!--case show end-->
-    <div class="clear"></div>
-    <!-- Contact-->
-    {template "indexContact.html"}
-    <div class="clear"></div>
+    <!--contact-->
+    {template "contact.html"}
+    <!--contact end-->
     {template "footer.html"}
 </div>
-<script src="{HOME_THEME_PATH}build/js/app.js?v201605055555"></script>
+<script src="{HOME_THEME_PATH}build/js/app.js?v20160505555fsss335"></script>
 <script>
-    $(function () {
-        $('html, body').stop().animate({ scrollTop: $("#case-wrap").offset().top-60 }, 500, function() {
+    (function () {
+        D('html, body').stop().animate({ scrollTop: D("#case-wrap").offset().top-40 }, 500, function() {
 
         });
     })

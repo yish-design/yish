@@ -2,65 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af70107b-bcf0-4c91-bde7-d95aaebcd73c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/loadings.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/yish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/loading.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/logo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/navShow.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/16d20195b9a60c5488d2a8b5c85d2a78" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/38a736e1f3021d853109d33627253827" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/5d217d0f0e1843dee27c1dc779b29907" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/7399a0f8fab91fa0761fa47901a623b2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/7d3875a977a9facf62e51388e7ccd0a5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/a9580db0356d3c827fc4c88c088bfbed" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/b4e2cb715322e02b29ba08f7d84b95ef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/e4fb778da100af8a444fc9d3aea6e855" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/f9e5034b3bf094770b9809ba4a72a345" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/007631a3367e677917cede7e8118a0a2.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/03401745607a715649498dcc7874a9cb.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/0e0af88cbb6ee59902f880f69e6876bb.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/1da65aae8508b3a389e99413180d8b5c.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/26b48967075a75b7794d5e7049a3be42.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/42969df799dbc35e5496e035dd186f6e.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/5c0d631bde21940a32406998b9406775.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/5ccd4987f4655d58897774c000e37d34.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/89640071b9540cdf8fcd7d1983b5be4e.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/913a1bbec79d7cb1b707906ec70dbbba.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/933ec023142c50cd069178f34cefe8dc.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/a0de74dacb645466c0b61fd17e562aa6.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/a6e1a63416c6f35b3bbbd451cb2fdafb.cache.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/clients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/preload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/team.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/value.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantob/templates/yish/work_data.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/1618faffced0b54ac8fdb003bea84817" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/6d09948f046167ddb2a73a46a56e5109" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/file/admin_mtotal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/13a6e30dc7efa7c32cd296907b489e56.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/1bda50a400300ac697a2efca5edeaffb.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/1e48c48b7ceca5a164325538dbc66811.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/2aed77121c07aa04d62e19016044d18f.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/3cd154fd729de7a8391e6d084c40c1d1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/4141394e266229946a39a4630cd152a1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/4bde0ebaf7ca48d64b498bc147f9a58d.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/5325dbc2fc98e52a45c92372622bbefc.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/5b33cd0847923c5c96076bc8096d688e.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/6393ddf6a002c5a2b88a3556118d9d72.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/718629a160767b3074e09276db041d7b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/8403d053c3314885a14a565d0352ba48.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/8c849be02578b4a017d049b421a55e14.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/9f547b008229ec362af148cb5b8dfbee.cache.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/a956f7b02f0cc9b3633b8862fec86c3d.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/ad9d079c1ec93d2a982b20992d29aba6.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/b5b3e9da816c85be2f354d11b948c7da.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/e22ac500a5100023fbcc040ca50d5a2b.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/ee3c903b6d6e81ba8291dfdded901860.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f4c5e5a9c7c335cdc03d3ffc7f7c55a5.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f7008ea4a7151b4cf5822813c3694316.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f7e9cdd92ac51453545332516d0dfe15.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/be635e4ec8db7e4bc3ccf57f1636b758.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/c558113d3416f2a24b33a2672a5ca09c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/d82174f9ced4f7d014f08456d4da113a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/f31324b41113cdb4e71b46126c9cd9e5.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/templates/fc3a21aad62468e0c18654b9d52165bd.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/front/Lato-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/front/Lato-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/front/Lato-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/background/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/background/partners.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/background/photo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/background/photo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/background/start-page.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/1-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/2-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/3-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/case/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/logos/alex1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/logos/alex2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/logos/archiq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/logos/thomsoon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/portfolio/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/show/show8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/img/yish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/handlebars-v2.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/imagesloaded.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/jquery-ui-1.10.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/jquery.nicescroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/jquery.parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/jquery.sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/indexAbout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/indexContact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/indexPartnets.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/indexPro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/index_data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/logo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mantob/templates/yish/navShow.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/form-1.cache.php" afterPath="$PROJECT_DIR$/cache/data/form-1.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/auto.log" afterPath="$PROJECT_DIR$/cache/auto.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/module-1-case.cache.php" afterPath="$PROJECT_DIR$/cache/data/module-1-case.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/data/table.cache.php" afterPath="$PROJECT_DIR$/cache/data/table.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/file/admin_mtotal" afterPath="$PROJECT_DIR$/cache/file/admin_mtotal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/4141394e266229946a39a4630cd152a1.cache.php" afterPath="$PROJECT_DIR$/cache/templates/4141394e266229946a39a4630cd152a1.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/5f37b71f84e371b355f90e480656d910.cache.php" afterPath="$PROJECT_DIR$/cache/templates/5f37b71f84e371b355f90e480656d910.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/65d2e27b3a029b338098e37fb10a490e.cache.php" afterPath="$PROJECT_DIR$/cache/templates/65d2e27b3a029b338098e37fb10a490e.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/8ffa79d08d7cfc0fff46e591afb090e8.cache.php" afterPath="$PROJECT_DIR$/cache/templates/8ffa79d08d7cfc0fff46e591afb090e8.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/a55aed4c33ac88405926a6d0b8c8533a.cache.php" afterPath="$PROJECT_DIR$/cache/templates/a55aed4c33ac88405926a6d0b8c8533a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/be635e4ec8db7e4bc3ccf57f1636b758.cache.php" afterPath="$PROJECT_DIR$/cache/templates/be635e4ec8db7e4bc3ccf57f1636b758.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/templates/d82174f9ced4f7d014f08456d4da113a.cache.php" afterPath="$PROJECT_DIR$/cache/templates/d82174f9ced4f7d014f08456d4da113a.cache.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/templates/yish/show.html" afterPath="$PROJECT_DIR$/case/templates/yish/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/site/1.php" afterPath="$PROJECT_DIR$/config/site/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/libraries/Template.php" afterPath="$PROJECT_DIR$/mantob/libraries/Template.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js" afterPath="$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/banner.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/banner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/header.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/footer.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/index.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/indexAbout.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/indexAbout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/index_data.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/index_data.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/nav.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mantob/templates/yish/show.html" afterPath="$PROJECT_DIR$/mantob/templates/yish/show.html" />
     </list>
     <ignored path="yish.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,17 +146,27 @@
       <file leaf-file-name="show.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/templates/yish/show.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+            <state relative-caret-position="675">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="99" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="99" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loading.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/img/loading.svg">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/templates/yish/list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -111,28 +175,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_hooks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app_hooks.php">
+      <file leaf-file-name="category.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/templates/yish/category.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -141,31 +185,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work_data.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/work_data.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/autoload.php">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="300">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/config.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-562">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="1" column="2347" selection-start-line="1" selection-start-column="2347" selection-end-line="1" selection-end-column="2347" />
               <folding />
             </state>
           </provider>
@@ -174,19 +240,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="banner.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="480">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -207,7 +265,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/mantob/templates/yish/footer.html" />
         <option value="$PROJECT_DIR$/case/templates/yish/list.html" />
         <option value="$PROJECT_DIR$/case/templates/yish/category.html" />
         <option value="$PROJECT_DIR$/case/config/auth.php" />
@@ -222,15 +279,30 @@
         <option value="$PROJECT_DIR$/mantob/templates/yish/indexAbout.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/index_data.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/showNav.html" />
-        <option value="$PROJECT_DIR$/mantob/templates/yish/index.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/logo.html" />
-        <option value="$PROJECT_DIR$/mantob/templates/yish/nav.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/navShow.html" />
-        <option value="$PROJECT_DIR$/mantob/templates/yish/header.html" />
-        <option value="$PROJECT_DIR$/case/templates/yish/show.html" />
-        <option value="$PROJECT_DIR$/mantob/templates/yish/banner.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/from.html" />
         <option value="$PROJECT_DIR$/mantob/templates/yish/form.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/header.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/nav.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/value.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/services.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/footer.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/contact.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/clients.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/preload.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/team.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/show.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yishOld/index_data.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/work-data.html" />
+        <option value="$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css" />
+        <option value="$PROJECT_DIR$/mantob/templates/yishOld/index.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/index.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/work_data.html" />
+        <option value="$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/head.html" />
+        <option value="$PROJECT_DIR$/case/templates/yish/show.html" />
+        <option value="$PROJECT_DIR$/mantob/templates/yish/banner.html" />
       </list>
     </option>
   </component>
@@ -244,9 +316,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1436" />
-    <option name="height" value="877" />
+    <option name="x" value="6" />
+    <option name="y" value="25" />
+    <option name="width" value="1916" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -273,8 +346,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,7 +376,175 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zanjs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantob" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zanjs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,11 +583,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/img" />
+      <recent name="$PROJECT_DIR$/mantob/templates/yish" />
       <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/css" />
       <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/js" />
-      <recent name="$PROJECT_DIR$/mantob/templates/yish" />
+      <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/img" />
       <recent name="$PROJECT_DIR$/mantob/statics/zanjs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mantob/statics/zanjs/build/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -401,11 +645,16 @@
       <workItem from="1462538166421" duration="3130000" />
       <workItem from="1462601228890" duration="1198000" />
       <workItem from="1462625910928" duration="2315000" />
+      <workItem from="1462673407994" duration="620000" />
+      <workItem from="1462702740825" duration="3088000" />
+      <workItem from="1462780248134" duration="436000" />
+      <workItem from="1465180950264" duration="986000" />
+      <workItem from="1465196105668" duration="7679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23049000" />
+    <option name="totallyTimeSpent" value="35858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,15 +666,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1436" height="877" extended-state="6" />
-    <editor active="false" />
+    <frame x="6" y="25" width="1916" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23601148" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23027259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23585913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24386339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29752955" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3312102" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3316062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2967033" sideWeight="0.49714285" order="7" side_tool="false" content_ui="tabs" />
@@ -436,7 +686,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -457,116 +706,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/case/templates/hunTpl/list.html" />
-    <entry file="file://$PROJECT_DIR$/case/templates/yish/category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/rewrite.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/data.table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/main.table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/config/module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/templates/yish/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/templates/luoduo/show.html" />
-    <entry file="file://$PROJECT_DIR$/news/templates/luoduo/list.html" />
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexPartnets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/form.html" />
     <entry file="file://$PROJECT_DIR$/mantob/templates/luoduo/form_1_2.html" />
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/msg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mantob/templates/yish/indexContact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -631,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index_data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -660,27 +794,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mantob/templates/yish/showNav.html" />
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mantob/templates/yish/logo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,23 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,41 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/templates/yish/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,15 +826,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,9 +846,233 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-562">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/img/top.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="102" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/msg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/preload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1738">
+          <caret line="132" column="7" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/index_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="79" selection-start-line="0" selection-start-column="79" selection-end-line="0" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/indexPro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yishOld/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/work_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/templates/yish/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/statics/zanjs/build/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="1" column="2347" selection-start-line="1" selection-start-column="2347" selection-end-line="1" selection-end-column="2347" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantob/templates/yish/banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="99" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="99" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
